@@ -6,6 +6,6 @@
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=hemajv&theme=panda">
 
 
-- 🔭 I’m currently working on building Gen-AI applications such as RAG, Agents, MCP tools, Llama Stack using open source tooling
-- ⚡ Currently working as a Data Scientist at **Red Hat**
+- 🔭 Building Gen-AI applications such as RAG, Agents, MCP tools, Llama Stack using open source tooling
+- ⚡ Currently working as a Principal Data Scientist at **Red Hat**
 
